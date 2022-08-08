@@ -4,4 +4,4 @@ Using Unsupervised Machine Learning methods to visualize cryptocurrency data wit
 
 <img src="https://github.com/miwermi/cryptocurrencies/blob/main/images/scatter.png" alt ="graphic">
 
-<img src="https://github.com/miwermi/cryptocurrencies/blob/main/images/3dcluster.png" alt ="graphic">
+<img src="https://github.com/miwermi/cryptocurrencies/blob/main/images/3Dcluster.png" alt ="graphic">
